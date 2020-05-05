@@ -26,6 +26,7 @@ int main(int argc, char *argv[]) {
 	}
 	return 0;
 }
+/*
 输入三个数，判定是否构成三角形。如果构成三角形，判定三角形类型，并计算三角形面积。
 
   
@@ -67,3 +68,4 @@ int main(int argc, char *argv[]) {
 no triangle
 right triangle, 6.0
 isosceles right triangle, 0.5
+*/
