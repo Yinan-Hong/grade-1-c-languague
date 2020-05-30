@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	for(;t>0;t--){
 		int n;
 		scanf("%d",&n);
-		int num[n];
+		int num[n]; 
 		int count;
 		for(count=0;count<n;count++){
 			scanf("%d",&num [count]);
